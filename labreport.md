@@ -17,10 +17,10 @@ It has the following funcitons:
 
 4. Compile the test and student's code with the appropriate classpath commands. Also, give correct messages if either compilation is successful or fails.
  
-![Image](script4.png)
+![Image](script5.png)
 
 5. Run the tests and report the grade or the error messages based on the Junit output. 
-![Image](script5.png)
+![Image](script6.png)
 
 ## Examples
 I tried several example files to show that the grade.sh works. 
