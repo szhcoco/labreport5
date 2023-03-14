@@ -13,7 +13,7 @@ It has the following funcitons:
 ![Image](script2.png)
 
 3. Get the student code and the test file into the same directory using the ```cp``` command.
-![Image](script3.png)
+![Image](script4.png)
 
 4. Compile the test and student's code with the appropriate classpath commands. Also, give correct messages if either compilation is successful or fails.
  
