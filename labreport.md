@@ -15,7 +15,8 @@ It has the following funcitons:
 3. Get the student code and the test file into the same directory using the ```cp``` command.
 ![Image](script3.png)
 
-4. Compile the test and student's code with the appropriate classpath commands. Also, give correct messages if either compilation is successful or fails. 
+4. Compile the test and student's code with the appropriate classpath commands. Also, give correct messages if either compilation is successful or fails.
+ 
 ![Image](script4.png)
 
 5. Run the tests and report the grade or the error messages based on the Junit output. 
